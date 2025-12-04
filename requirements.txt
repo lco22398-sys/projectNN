@@ -6,3 +6,4 @@ python-dotenv
 reportlab
 dotenv
 google-genai
+flask
