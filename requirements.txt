@@ -1,0 +1,8 @@
+langchain
+langchain-community 
+langchain-experimental
+python-dotenv
+
+reportlab
+dotenv
+google-genai
